@@ -1,3 +1,4 @@
+1
 #Hierarchical agglomerative clustering
 ####  USAGE: pramod_setlur_hclust.py [INPUT_FILE] [K_CLUSTERS]
 ####  Eg: pramod_setlur_hclust.py iris.dat 3
